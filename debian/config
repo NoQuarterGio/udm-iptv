@@ -73,6 +73,7 @@ _list_profiles() {
     echo "vivo", "Vivo SP (BR)"
     echo "posttv", "PostTV (LU)"
     echo "magentatv", "MagentaTV (DE)"
+    echo "bellcanada", "Bell Canada"
 }
 
 # Obtain the board name of the device running the installation script
